@@ -22,6 +22,7 @@ Swole Savings uses a number of open source projects to work properly:
 
 
 ### Todos
+[Live Styled Timeline]
  - ~~Planning~~
  - ~~Logo Design~~
  - ~~Sitemap~~
@@ -46,4 +47,5 @@ Swole Savings uses a number of open source projects to work properly:
    [Ruby on Rails]: <http://rubyonrails.org/>
    [JavaScript]: <https://www.javascript.com/>
    [Twitter Bootstrap]: <http://getbootstrap.com/>
+   [Live Styled Timeline]: <https://www.preceden.com/timelines/265306-swolesavings>
 
