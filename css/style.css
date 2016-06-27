@@ -1,0 +1,43 @@
+
+
+
+
+.panel-push {
+  padding-top:76px;
+}
+
+.pagination-centered {
+    text-align: center;
+}
+
+.footer {
+	background-color: #232323;
+	margin-top: 60px;
+	padding-top: 35px;
+	padding-bottom: 40px;
+}
+
+h4 {
+  color: #ffffff;
+}
+
+body {
+    background-color: #F2F2F2;
+}
+
+.navbar {
+  min-height: 116px;
+	margin-bottom: 0px;
+}
+
+.navbar-nav > li > a {
+    padding-top: 50.25px;
+    padding-bottom: 42.25px;
+  }
+
+
+.glyphicon {
+    font-size: 15px;
+}
+
+
