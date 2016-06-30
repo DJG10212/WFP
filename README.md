@@ -29,8 +29,8 @@ Swole Savings uses a number of open source projects to work properly:
  - ~~Wireframes~~
  - ~~Color & Styling~~
  - Continue Developing HTML + CSS + JavaScript
- - Setup Digital Ocean server
- - Setup Local Dev environment
+ - ~~Setup Digital Ocean server~~
+ - ~~Setup Local Dev environment~~
  - ~~Purchase domains~~
  - setup git on local and DO server
  - basic database up
